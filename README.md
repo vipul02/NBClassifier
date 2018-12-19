@@ -12,7 +12,7 @@ Naive Bayes is a classification technique based on Bayes’ Theorem(*Probability
 
 Bayes theorem provides a way of calculating posterior probability P(c|x) - *(read as Probability of **c** given **x**)*,  from P(c), P(x) and P(x|c). Look at the equation below:
 >
-> $$\mathbf{P} \left({x \mid c} \right) = \frac{\mathbf{P} \left ({c \mid x} \right) \mathbf{P} \left({c} \right)}{\mathbf{P} \left( {x} \right)}$$
+> $\mathbf{P} \left({x \mid c} \right) = \frac{\mathbf{P} \left ({c \mid x} \right) \mathbf{P} \left({c} \right)}{\mathbf{P} \left( {x} \right)}$
 
 where,
 
